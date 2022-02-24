@@ -1,0 +1,12 @@
+#filterZone{
+    grid-column: 1/4;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    background-color: #ffde98;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    border-radius: 25px;
+}

@@ -1,0 +1,14 @@
+nav.navbar{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #ffde98;
+    border-radius: 25px;
+    align-items: center;
+}
+a{
+    color: #1976d2;
+}
+nav > a:nth-child(1){
+    color: red;
+    font-size: 1.3rem;
+}
