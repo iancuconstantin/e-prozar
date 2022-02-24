@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/e-prozar/static/css/main.e0a14d74.chunk.css",
+    "main.js": "/e-prozar/static/js/main.7cb9fa0e.chunk.js",
+    "main.js.map": "/e-prozar/static/js/main.7cb9fa0e.chunk.js.map",
+    "runtime-main.js": "/e-prozar/static/js/runtime-main.f185326d.js",
+    "runtime-main.js.map": "/e-prozar/static/js/runtime-main.f185326d.js.map",
+    "static/css/2.848f1a68.chunk.css": "/e-prozar/static/css/2.848f1a68.chunk.css",
+    "static/js/2.cdecf0b4.chunk.js": "/e-prozar/static/js/2.cdecf0b4.chunk.js",
+    "static/js/2.cdecf0b4.chunk.js.map": "/e-prozar/static/js/2.cdecf0b4.chunk.js.map",
+    "index.html": "/e-prozar/index.html",
+    "static/css/2.848f1a68.chunk.css.map": "/e-prozar/static/css/2.848f1a68.chunk.css.map",
+    "static/css/main.e0a14d74.chunk.css.map": "/e-prozar/static/css/main.e0a14d74.chunk.css.map",
+    "static/js/2.cdecf0b4.chunk.js.LICENSE.txt": "/e-prozar/static/js/2.cdecf0b4.chunk.js.LICENSE.txt",
+    "static/media/flag-icons.min.css": "/e-prozar/static/media/zw.cd37458b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f185326d.js",
+    "static/css/2.848f1a68.chunk.css",
+    "static/js/2.cdecf0b4.chunk.js",
+    "static/css/main.e0a14d74.chunk.css",
+    "static/js/main.7cb9fa0e.chunk.js"
+  ]
+}
